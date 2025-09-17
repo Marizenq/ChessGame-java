@@ -75,7 +75,7 @@ java -cp bin view.ChessGUI
 
 Créditos
 
-Projeto inspirado no código base da professora [NOME DA PROFESSORA] utilizado na disciplina de Análise e Desenvolvimento de Sistemas.
+Projeto inspirado no código base da professora Thayse utilizado na disciplina de POO.
 Implementações, melhorias e novas funcionalidades desenvolvidas por Marina Queiroz:
 Adição de IA básica
 Escolha de jogar com brancas ou pretas
